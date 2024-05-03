@@ -46,7 +46,7 @@ Primary contact:</b> [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subj
 <br/><br/>
 
 
-## Record Linkage Implementation Checklist: Governance & Technical Considerations
+## <a id="record-linkage-implementation-checklist"></a>Record Linkage Implementation Checklist: Governance & Technical Considerations
 <p> Prior to designing and implementing a record linkage strategy, funders, researchers, data repositories, and other stakeholders should collaborate to make a series of governance and technical decisions. </p>
 
 ### Data Governance Considerations
