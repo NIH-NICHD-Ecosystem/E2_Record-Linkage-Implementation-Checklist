@@ -117,8 +117,8 @@ Assuming basic requirements are met, software sustainability could be a primary 
 
 
 ## Effort Documentation 
-### Use Cases Diagram  
-This use cases diagram summarizes the steps described in the Record Linkage Implementation Checklist. Formal use cases (or functional requirements and system interactions) depend on the decisions made for each given record linkage implementation and are not documented here. 
+### Workflow  
+This diagram summarizes the steps described in the Record Linkage Implementation Checklist. 
 
 <br/><br/>
 ![The Record Linkage Implementation Checklist Use Cases Diagram describes each decision that must be made before implementing record linkage](./assets/Record-Linkage-Implementation-Checklist.drawio.svg) 
