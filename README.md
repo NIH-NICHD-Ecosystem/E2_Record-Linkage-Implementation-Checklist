@@ -41,7 +41,7 @@ Primary contact:</b> [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subj
 * <b> NIH contacts:</b>
     * Rebecca Rosen, Director, NICHD ODSS
     * Valerie Cotton, Deputy Director, NICHD ODSS
-    * Elizabeth Clerkin, Data Science and Policy Specialist, NICHD ODSS 
+    * Elizabeth Clerkin, Data Science and Sharing Specialist, NICHD ODSS 
 <br/><br/>
 
 
