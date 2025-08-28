@@ -126,3 +126,12 @@ This diagram summarizes the steps described in the Record Linkage Implementation
 <br/><br/>
 ![The Record Linkage Implementation Checklist Use Cases Diagram describes each decision that must be made before implementing record linkage](./assets/Record-Linkage-Implementation-Checklist.drawio.svg) 
 <br/>
+### User stories:
+
+The following User Stories motivated and informed this Effort.
+
+| S#  | User Story | Current Problem | User Goal |
+|----|----|----|-----|
+|41| As a researcher/clinician, I want to combine participant-level data collected from multiple studies and data repositories to merge multiple data types for each participant and avoid working with inflated sample sizes to effectively study COVID in children | We believe the same children were recruited for multiple studies with different data collection protocols and the data are shared through multiple data repositories, but we don’t have a way to identify which children are the same without sharing personally identifiable information which is not allowed by our IRB | My goal is to enable participant-level linkage in children across multiple studies and data repositories |
+| 42 |As NIH staff, I want to fund research about the genetic underpinnings of COVID symptoms in children, but I want to avoid paying for duplicate whole genome sequencing for children who have already been sequenced in other studies | We have limited funds to pay for sequencing and without knowing which participants are the same, we are likely to inadvertently pay for whole genome sequencing the same child multiple times| My goal is to enable participant-level linkage in children across multiple studies and data repositories |
+| 43 |As an NIH data repository, I want to facilitate longitudinal data analysis of de-identified data from multiple studies to enable data users to study the impact of long COVID in children | Our policy is to only accept and share de-identified data, so it’s not possible to determine which participants are the same across studies and enable users to study the same participants at multiple time points| My goal is to enable participant-level linkage in children across multiple studies and data repositories |
