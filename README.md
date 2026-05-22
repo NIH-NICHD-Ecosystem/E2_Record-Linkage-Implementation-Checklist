@@ -11,6 +11,7 @@
 - [Effort Overview](#effort-overview) 
 - [Record Linkage Implementation Checklist: Governance & Technical Considerations](#record-linkage-implementation-checklist)
 - [Effort Documentation](#effort-documentation)
+- [User Stories](#user-stories)
 <br/><br/>
 
 
@@ -126,7 +127,7 @@ This diagram summarizes the steps described in the Record Linkage Implementation
 <br/><br/>
 ![The Record Linkage Implementation Checklist Use Cases Diagram describes each decision that must be made before implementing record linkage](./assets/Record-Linkage-Implementation-Checklist.drawio.svg) 
 <br/>
-### User stories:
+## User stories:
 
 The following User Stories motivated and informed this Effort.
 
